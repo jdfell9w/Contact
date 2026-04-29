@@ -1,0 +1,342 @@
+{
+  "settings": {
+    "title": "Contact XR Presentation",
+    "referenceImage": "./assets/contact_diagram_full.jpg",
+    "spaceColor": "#040611",
+    "subtitle": "cleaner presentation version"
+  },
+  "nodes": [
+    {
+      "id": "contact",
+      "kind": "card",
+      "title": "CONTACT",
+      "subtitle": "Learning from Outer Space",
+      "lines": [
+        "about innovation",
+        "open your mind"
+      ],
+      "detail": "Presentation anchor node. This condenses the central theme of the original diagram into a clean title card.",
+      "pos": [
+        0.0,
+        2.25,
+        -3.8
+      ],
+      "size": [
+        2.55,
+        1.28
+      ],
+      "accent": "#ff7997",
+      "panel": "#25111a"
+    },
+    {
+      "id": "ufo",
+      "kind": "ufo",
+      "title": "UFO",
+      "detail": "A visual marker for the contact motif from the original diagram.",
+      "pos": [
+        -2.15,
+        2.15,
+        -3.55
+      ],
+      "scale": 1.05,
+      "accent": "#b8ffc8"
+    },
+    {
+      "id": "openmind",
+      "kind": "card",
+      "title": "Open Your Mind",
+      "subtitle": "to the \u201ctwins\u201d of the Earth",
+      "lines": [
+        "look beyond stereotypes",
+        "ask what the lessons are"
+      ],
+      "detail": "This retains the original call to broaden the conversation beyond simplistic images of extraterrestrial life.",
+      "pos": [
+        -3.9,
+        1.2,
+        -3.8
+      ],
+      "size": [
+        2.5,
+        1.35
+      ],
+      "accent": "#81bcff",
+      "panel": "#11192a"
+    },
+    {
+      "id": "twinearths",
+      "kind": "pair-earth",
+      "title": "Twin Earths",
+      "detail": "A clean visual translation of the Earth-twin motif in the source image.",
+      "pos": [
+        -4.15,
+        -0.15,
+        -3.55
+      ],
+      "scale": 0.42,
+      "accent": "#7ed8ff"
+    },
+    {
+      "id": "civilization",
+      "kind": "card",
+      "title": "Civilization Scale",
+      "subtitle": "Type I \u2022 Type II \u2022 Type III \u2022 Type IV",
+      "lines": [
+        "planetary",
+        "galactic",
+        "dark energy"
+      ],
+      "detail": "This summarizes the civilization-scale ladder in the source image.",
+      "pos": [
+        -3.1,
+        -1.65,
+        -3.8
+      ],
+      "size": [
+        2.7,
+        1.35
+      ],
+      "accent": "#ffd76a",
+      "panel": "#2b1f07"
+    },
+    {
+      "id": "quran",
+      "kind": "card",
+      "title": "The Qur\u2019an",
+      "subtitle": "origin \u2022 universe \u2022 future",
+      "lines": [
+        "cosmology",
+        "scientific precision"
+      ],
+      "detail": "A cleaner presentation of the Qur\u2019an / universe cluster from the original diagram.",
+      "pos": [
+        -1.4,
+        0.72,
+        -3.8
+      ],
+      "size": [
+        2.35,
+        1.18
+      ],
+      "accent": "#ffe08a",
+      "panel": "#261f0b"
+    },
+    {
+      "id": "fusion",
+      "kind": "card",
+      "title": "fusion?",
+      "subtitle": "What else can we do with it?",
+      "lines": [
+        "competitiveness can motivate",
+        "and also distort"
+      ],
+      "detail": "Central conceptual pivot from the original diagram.",
+      "pos": [
+        0.0,
+        0.92,
+        -3.55
+      ],
+      "size": [
+        2.45,
+        1.22
+      ],
+      "accent": "#ffffff",
+      "panel": "#1b1730"
+    },
+    {
+      "id": "evidence",
+      "kind": "card",
+      "title": "Evidence",
+      "subtitle": "alien visitation is overwhelming",
+      "lines": [
+        "we may not be the most advanced"
+      ],
+      "detail": "This condenses the evidence claim from the lower-middle region of the source.",
+      "pos": [
+        0.0,
+        -0.72,
+        -3.8
+      ],
+      "size": [
+        2.65,
+        1.15
+      ],
+      "accent": "#ffd177",
+      "panel": "#291c08"
+    },
+    {
+      "id": "innovation",
+      "kind": "card",
+      "title": "Innovation",
+      "subtitle": "multi-disciplinary efforts",
+      "lines": [
+        "worldview shifts",
+        "new possibilities"
+      ],
+      "detail": "A cleaner rendering of the innovation branch.",
+      "pos": [
+        2.0,
+        -0.1,
+        -3.8
+      ],
+      "size": [
+        2.45,
+        1.15
+      ],
+      "accent": "#ffb36a",
+      "panel": "#29170d"
+    },
+    {
+      "id": "alienlife",
+      "kind": "card",
+      "title": "Alien Life?",
+      "subtitle": "exoplanets \u2022 biosignatures \u2022 signals",
+      "lines": [
+        "something unlike us",
+        "what counts as evidence?"
+      ],
+      "detail": "A presentation-friendly version of the exoplanets / biosignatures / signals cluster.",
+      "pos": [
+        3.8,
+        1.15,
+        -3.8
+      ],
+      "size": [
+        2.7,
+        1.35
+      ],
+      "accent": "#9cffae",
+      "panel": "#0d2418"
+    },
+    {
+      "id": "science",
+      "kind": "card",
+      "title": "Science Without Prejudgment",
+      "subtitle": "anomalies can lead to new theorems",
+      "lines": [
+        "space",
+        "time",
+        "advanced life"
+      ],
+      "detail": "This condenses the science and anomalies cluster on the right side of the original image.",
+      "pos": [
+        3.95,
+        -0.55,
+        -3.8
+      ],
+      "size": [
+        2.95,
+        1.3
+      ],
+      "accent": "#b9cfff",
+      "panel": "#121a30"
+    },
+    {
+      "id": "fact",
+      "kind": "card",
+      "title": "From Speculation to Fact",
+      "subtitle": "concrete evidence and long study",
+      "lines": [
+        "longitudinal studies",
+        "scores of witnesses"
+      ],
+      "detail": "Presentation-friendly conclusion node drawn from the lower-right area of the source image.",
+      "pos": [
+        2.4,
+        -1.95,
+        -3.8
+      ],
+      "size": [
+        3.1,
+        1.38
+      ],
+      "accent": "#ff8da4",
+      "panel": "#2b1520"
+    },
+    {
+      "id": "creation",
+      "kind": "card",
+      "title": "Creation on Earth and in Heaven",
+      "subtitle": "make this planet as peaceful as possible",
+      "lines": [
+        "duty",
+        "peace",
+        "responsibility"
+      ],
+      "detail": "A cleaner presentation of the upper-right ethical / planetary duty cluster.",
+      "pos": [
+        4.5,
+        2.35,
+        -3.8
+      ],
+      "size": [
+        2.8,
+        1.35
+      ],
+      "accent": "#ffd279",
+      "panel": "#2a1b08"
+    }
+  ],
+  "edges": [
+    {
+      "from": "contact",
+      "to": "ufo",
+      "color": "#ff8da4"
+    },
+    {
+      "from": "contact",
+      "to": "openmind",
+      "color": "#81bcff"
+    },
+    {
+      "from": "openmind",
+      "to": "twinearths",
+      "color": "#7ed8ff"
+    },
+    {
+      "from": "twinearths",
+      "to": "civilization",
+      "color": "#ffd76a"
+    },
+    {
+      "from": "contact",
+      "to": "quran",
+      "color": "#ffe08a"
+    },
+    {
+      "from": "contact",
+      "to": "fusion",
+      "color": "#ffffff"
+    },
+    {
+      "from": "fusion",
+      "to": "evidence",
+      "color": "#ffd177"
+    },
+    {
+      "from": "evidence",
+      "to": "innovation",
+      "color": "#ffb36a"
+    },
+    {
+      "from": "innovation",
+      "to": "alienlife",
+      "color": "#9cffae"
+    },
+    {
+      "from": "alienlife",
+      "to": "science",
+      "color": "#b9cfff"
+    },
+    {
+      "from": "science",
+      "to": "fact",
+      "color": "#ff8da4"
+    },
+    {
+      "from": "alienlife",
+      "to": "creation",
+      "color": "#ffd279"
+    }
+  ]
+}

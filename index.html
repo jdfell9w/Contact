@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Contact XR Presentation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div id="overlay">
+    <h1>Contact XR Presentation</h1>
+    <p>
+      Cleaner presentation version. Desktop: drag to orbit, scroll to zoom, click nodes to focus.
+      In Quest / WebXR, press <b>Enter VR</b>, aim with the controller ray, and select nodes.
+      Thumbsticks shift the scene.
+    </p>
+  </div>
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.164.1/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.164.1/examples/jsm/"
+    }
+  }
+  </script>
+
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
